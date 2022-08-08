@@ -40,6 +40,8 @@
 | Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Website/Blog                                      |
 | -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------------------------------------------------- |
 | Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        | [![web]](https://hdeleon.net/)                    |
+| Elena G Blanco (Elena.NET)         | [![twitter]](https://twitter.com/beelzenef_)  | [![youtube]](https://www.youtube.com/c/ElenaDotNET)                    | [![twitch]](https://www.twitch.tv/elenadotnet)        | [![linkedin]](https://www.linkedin.com/in/elena-guzman-blanco/)             | [![github]](https://github.com/beelzenef)                 | [![web]](https://geekstorming.wordpress.com/)|
+| Alberto Picazo         | [![twitter]](https://twitter.com/Hiunkeru)  | [![youtube]](https://www.youtube.com/channel/UCFqtx4TdoNb_YhcVFNYPraA)|       |             | [![github]](https://github.com/Hiunkeru)                 | |
 
 # Desarrollo Web/Front End (General) <a name="frontend"></a>
 
